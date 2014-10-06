@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'start' ]
+2 info using npm@2.0.0
+3 info using node@v0.11.14
+4 verbose config Skipping project config: /Users/jkotrbo/.npmrc. (matches userconfig)
+5 verbose stack Error: ENOENT, open '/Users/jkotrbo/package.json'
+5 verbose stack     at Error (native)
+6 verbose cwd /Users/jkotrbo/projects/git/angular-app
+7 error Darwin 13.4.0
+8 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+9 error node v0.11.14
+10 error npm  v2.0.0
+11 error path /Users/jkotrbo/package.json
+12 error code ENOENT
+13 error errno -2
+14 error ENOENT, open '/Users/jkotrbo/package.json'
+15 error If you need help, you may report this error at:
+15 error     <http://github.com/npm/npm/issues>
+16 verbose exit [ -2, true ]
